@@ -5,7 +5,7 @@
 #include "nvs_flash.h"
 #include <stdio.h>
 
-void init_system(void);
+void app_init_system(void);
 void wifi_print_result(uint16_t ap_count, wifi_ap_record_t *ap_records);
 
 #endif // !UTILS_H

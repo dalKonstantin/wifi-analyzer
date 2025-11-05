@@ -1,0 +1,21 @@
+[ 1] TP-Link_8C3A                     RSSI: -46 CH: 4 AUTH:WPA2_PSK
+[ 2] Dima                             RSSI: -51 CH: 5 AUTH:WPA_WPA2_PSK
+[ 3] Asus                             RSSI: -69 CH: 1 AUTH:WPA_PSK
+[ 4] RT-GPON-C9E0                     RSSI: -70 CH:11 AUTH:WPA_WPA2_PSK
+[ 5] OLGA                             RSSI: -76 CH:10 AUTH:WPA2_PSK
+[ 6] Beeline_2G_3EF9EF                RSSI: -77 CH:11 AUTH:WPA_WPA2_PSK
+[ 7] SkyNet_195                       RSSI: -81 CH:13 AUTH:WPA2_PSK
+[ 8] Beeline_2G_F51FF2                RSSI: -83 CH: 1 AUTH:WPA_WPA2_PSK
+[ 9] MERCUSYS_0751                    RSSI: -84 CH:10 AUTH:WPA_WPA2_PSK
+[10] Keenetic-9724                    RSSI: -85 CH: 6 AUTH:WPA2_PSK
+[11] Dom.ru_169                       RSSI: -87 CH: 1 AUTH:WPA2_PSK
+[12] Marina                           RSSI: -89 CH: 6 AUTH:WPA2_PSK
+[13] Jesik                            RSSI: -89 CH:10 AUTH:WPA2_PSK
+[14] Orsk                             RSSI: -89 CH:10 AUTH:WPA2_PSK
+[15] Keenetic-3151                    RSSI: -90 CH: 7 AUTH:WPA2_PSK
+[16] TP-Link_2539                     RSSI: -90 CH:10 AUTH:WPA2_PSK
+[17] AliseFonBlak                     RSSI: -94 CH:13 AUTH:WPA2_PSK
+======Channel distribution=====
+   3   0   0   1   1   2   1   0   0   5   2   0   2
+[ 1][ 2][ 3][ 4][ 5][ 6][ 7][ 8][ 9][10][11][12][13]
+
